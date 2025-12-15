@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an **AI-Powered Applications** using Spring Boot Microservices and React  <br>🌱 I’m diving deep into **Blockchain**, **RabbitMQ**, and **Cloud Services** like AWS & Render  <br>💡 My projects are driven by creativity, user experience, and clean architecture  <br>👯 I love collaborating on **open source projects** and building real-world solutions  <br>🎓 I'm a 3rd year student at **Sri Krishna College of Technology**  <br>🚀 My goal is to become a **10x developer** and make a meaningful impact in the tech world  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneswar-g-8b0b47242/) <br>
+🔭 I’m currently working on an **AI-Powered Applications** using Spring Boot Microservices and React  <br>🌱 I’m diving deep into **Blockchain**, **RabbitMQ**, and **Cloud Services** like AWS & Render  <br>💡 My projects are driven by creativity, user experience, and clean architecture  <br>👯 I love collaborating on **open source projects** and building real-world solutions  <br>🎓 I'm a 4rd year student at **Sri Krishna College of Technology**  <br>🚀 My goal is to become a **10x developer** and make a meaningful impact in the tech world  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneswar-g-8b0b47242/) <br>
 
 
 # 💻 Tech Stack:
