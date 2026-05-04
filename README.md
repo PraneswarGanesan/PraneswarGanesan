@@ -2,11 +2,6 @@
 🔭 I’m currently working on an **AI-Powered Applications** using Spring Boot Microservices and React  <br>🌱 I’m diving deep into **Blockchain**, **RabbitMQ**, and **Cloud Services** like AWS & Render  <br>💡 My projects are driven by creativity, user experience, and clean architecture  <br>👯 I love collaborating on **open source projects** and building real-world solutions  <br>🎓 I'm a 4rd year student at **Sri Krishna College of Technology**  <br>🚀 My goal is to become a **10x developer** and make a meaningful impact in the tech world  <br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/praneswar-g-8b0b47242/) <br>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PraneswarGanesan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PraneswarGanesan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraneswarGanesan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
